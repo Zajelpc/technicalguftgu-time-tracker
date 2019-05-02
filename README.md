@@ -2,8 +2,6 @@
 Java (Maven) application for tracking time on the job
 
 Time tracker
-Hello Students!!
-Good evening!!
-Good morning!!
-Welcome to DevOps World!!
+
+Hello everyone!!
 
