@@ -3,5 +3,5 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Hello everyone!! Good evening!!
+Hello All!! Happy Ramzan!!
 
